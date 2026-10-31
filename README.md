@@ -11,7 +11,7 @@ Additionally, as you can see in the photos, this new circuit will give an incred
 
 ## Notes
 
-*   The board is compatible with two different ROM chip sizes. The photos show the **MX23C1603-12A** ROM, with **44 pins** in total, 22 on each side. It is also compatible with the **MX23C8006-12** ROM, with **32 pins** in total, 16 on each side.
+*   The board is compatible with two different ROM chip sizes. The **MX23C1603-12A** ROM, with **44 pins** in total, 22 on each side. It is also compatible with the **MX23C8006-12** ROM, with **32 pins** in total, 16 on each side.
 
 ## Would you like it?
 
