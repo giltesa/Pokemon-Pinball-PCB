@@ -6,7 +6,7 @@ This is a **full-color printed custom motherboard** for the game **Pokémon Pinb
 
 Additionally, as you can see in the photos, this new circuit will give an incredible look to your Pokémon Pinball. Pair it with a transparent Game Boy or Game Boy Color shell to show off the artwork
 
-![Pokemon Pinball](https://raw.githubusercontent.com/giltesa/Pokemon-Red-Blue-Yellow-PCB/master/4.%20Photos/Pokemon-Pinball-Custom-board-shell-v1.1.jpg)
+![Pokemon Pinball](https://raw.githubusercontent.com/giltesa/Pokemon-Pinball-PCB/master/4.%20Photos/Pokemon-Pinball-Custom-board-shell-v1.1.jpg)
 
 
 ## Notes
